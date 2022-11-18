@@ -1,3 +1,13 @@
+:root {
+    --primeira-cor: "#F1E4E8";
+    --segunda-cor: "#E2DCDE";
+
+    --borda: "#CEB1BE";
+
+    --fundo: "#B97375";
+    --text: "#2D2D34";
+}
+
 * {
     margin: 0;
     padding: 0;
